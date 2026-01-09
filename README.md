@@ -18,8 +18,8 @@ Below is the high-level tracking of my 10 main goals.
 | [**6. Cinema**](./05-library/movies.md) | Watch & Review **12** Curated Movies | 🔴 | [Issue #6] |
 | [**7. Poetry**](./05-library/poems.md) | Memorize & Recite **12** Poems | 🔴 | [Issue #7] |
 | [**8. Rhetoric & Diction**](./06-soft-skills/) | Improve public speaking & Turkish proficiency | 🔴 | [Issue #8] |
-| [**9. Social**](./06-soft-skills/) | Join at least **1** Active Community | 🔴 | [Issue #9] |
-| [**10. Fitness**](./07-health/) | Reach **80kg** Aesthetic Physique | 🔴 | [Issue #10] |
+| [**9. Social**](./06-soft-skills/) | Join at least **1** Active Community | 🔴 | [Issue #8] |
+| [**10. Fitness**](./07-health/) | Reach **80kg** Aesthetic Physique | 🔴 | [Issue #9] |
 
 ## 📈 Progress
 - 🟢 **Completed**
